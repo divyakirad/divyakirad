@@ -11,7 +11,7 @@ I am Divya Kirad , a passionate engineering graduate specialised in information 
 
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/deevya/portfoliowebsite)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/deevya)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/divyakirad)
 
 - 📫Willing to collaborate and work on projects.
 
